@@ -21,5 +21,3 @@ It explores correlations, reduces dimensionality, and interprets the main compon
 ## 🧠 Insights
 The PCA reveals which car attributes contribute most to the dataset’s variance, helping to simplify the analysis while retaining most of the information.
 
-## 🧑‍💻 Author
-**Ameerat Aderonke Ademuyiwa**
